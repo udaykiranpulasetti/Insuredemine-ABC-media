@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Insuredemine/static/css/main.ba01ad8d.chunk.css",
-    "main.js": "/Insuredemine/static/js/main.6a893d43.chunk.js",
-    "main.js.map": "/Insuredemine/static/js/main.6a893d43.chunk.js.map",
-    "runtime-main.js": "/Insuredemine/static/js/runtime-main.7350662f.js",
-    "runtime-main.js.map": "/Insuredemine/static/js/runtime-main.7350662f.js.map",
+    "main.css": "/Insuredemine/static/css/main.c06cd231.chunk.css",
+    "main.js": "/Insuredemine/static/js/main.dfe7c939.chunk.js",
+    "main.js.map": "/Insuredemine/static/js/main.dfe7c939.chunk.js.map",
+    "runtime-main.js": "/Insuredemine/static/js/runtime-main.8075738b.js",
+    "runtime-main.js.map": "/Insuredemine/static/js/runtime-main.8075738b.js.map",
     "static/js/2.383eea67.chunk.js": "/Insuredemine/static/js/2.383eea67.chunk.js",
     "static/js/2.383eea67.chunk.js.map": "/Insuredemine/static/js/2.383eea67.chunk.js.map",
-    "static/js/3.a4a30c4f.chunk.js": "/Insuredemine/static/js/3.a4a30c4f.chunk.js",
-    "static/js/3.a4a30c4f.chunk.js.map": "/Insuredemine/static/js/3.a4a30c4f.chunk.js.map",
+    "static/js/3.7ec3d484.chunk.js": "/Insuredemine/static/js/3.7ec3d484.chunk.js",
+    "static/js/3.7ec3d484.chunk.js.map": "/Insuredemine/static/js/3.7ec3d484.chunk.js.map",
     "index.html": "/Insuredemine/index.html",
-    "static/css/main.ba01ad8d.chunk.css.map": "/Insuredemine/static/css/main.ba01ad8d.chunk.css.map",
+    "static/css/main.c06cd231.chunk.css.map": "/Insuredemine/static/css/main.c06cd231.chunk.css.map",
     "static/js/2.383eea67.chunk.js.LICENSE.txt": "/Insuredemine/static/js/2.383eea67.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7350662f.js",
+    "static/js/runtime-main.8075738b.js",
     "static/js/2.383eea67.chunk.js",
-    "static/css/main.ba01ad8d.chunk.css",
-    "static/js/main.6a893d43.chunk.js"
+    "static/css/main.c06cd231.chunk.css",
+    "static/js/main.dfe7c939.chunk.js"
   ]
 }
