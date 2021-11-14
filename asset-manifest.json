@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Insuredemine/static/css/main.5ec392ae.chunk.css",
+    "main.js": "/Insuredemine/static/js/main.7a40ae35.chunk.js",
+    "main.js.map": "/Insuredemine/static/js/main.7a40ae35.chunk.js.map",
+    "runtime-main.js": "/Insuredemine/static/js/runtime-main.2d6d62e5.js",
+    "runtime-main.js.map": "/Insuredemine/static/js/runtime-main.2d6d62e5.js.map",
+    "static/js/2.383eea67.chunk.js": "/Insuredemine/static/js/2.383eea67.chunk.js",
+    "static/js/2.383eea67.chunk.js.map": "/Insuredemine/static/js/2.383eea67.chunk.js.map",
+    "static/js/3.7b159a34.chunk.js": "/Insuredemine/static/js/3.7b159a34.chunk.js",
+    "static/js/3.7b159a34.chunk.js.map": "/Insuredemine/static/js/3.7b159a34.chunk.js.map",
+    "index.html": "/Insuredemine/index.html",
+    "static/css/main.5ec392ae.chunk.css.map": "/Insuredemine/static/css/main.5ec392ae.chunk.css.map",
+    "static/js/2.383eea67.chunk.js.LICENSE.txt": "/Insuredemine/static/js/2.383eea67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6d62e5.js",
+    "static/js/2.383eea67.chunk.js",
+    "static/css/main.5ec392ae.chunk.css",
+    "static/js/main.7a40ae35.chunk.js"
+  ]
+}
