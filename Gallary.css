@@ -1,0 +1,24 @@
+.image{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    padding: 5px;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+    position: relative;
+    margin: auto;
+}
+.image:hover{
+    transform: scale(1.1);
+    z-index: 10;
+}
+.gallary-cont{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}

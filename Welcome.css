@@ -1,0 +1,14 @@
+.greeting{
+    position: relative;
+    top: 150px;
+}
+span{
+    color: rebeccapurple;
+    font-weight: 500;
+}
+h1,h2{
+    font-weight: 400;
+}
+.welcome{
+    margin-top: 12px;
+}

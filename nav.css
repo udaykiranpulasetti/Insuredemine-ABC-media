@@ -1,0 +1,13 @@
+.items{
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+}
+nav{
+    margin-bottom: 50px;
+    border-bottom: 1px black solid;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 300;
+}
