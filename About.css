@@ -1,0 +1,40 @@
+.quote{
+    position: relative;
+    margin: auto;
+    padding: 45px 30px;
+    max-width: 650px;
+}
+.about{
+    background-color: black;
+    position: relative;
+    margin: auto;
+    align-items: center;
+    top: 30px;
+    padding: 10px 28px;
+    max-width: 1200px;
+    color: white;
+    font-family: cursive;
+}
+img{  
+    max-height: 250px;
+    max-width: 300px;
+}
+.image{
+    object-fit: contain;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.keymem{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.key{
+    margin-top: 20px;
+    font-weight: 700;
+}
+.aboutpage{
+    margin: 0 18px 100px 18px;
+}
