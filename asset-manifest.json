@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Insuredemine/static/css/main.f4336add.chunk.css",
-    "main.js": "/Insuredemine/static/js/main.6b073b59.chunk.js",
-    "main.js.map": "/Insuredemine/static/js/main.6b073b59.chunk.js.map",
+    "main.css": "/Insuredemine/static/css/main.d56bcc84.chunk.css",
+    "main.js": "/Insuredemine/static/js/main.8ff89799.chunk.js",
+    "main.js.map": "/Insuredemine/static/js/main.8ff89799.chunk.js.map",
     "runtime-main.js": "/Insuredemine/static/js/runtime-main.8075738b.js",
     "runtime-main.js.map": "/Insuredemine/static/js/runtime-main.8075738b.js.map",
     "static/js/2.383eea67.chunk.js": "/Insuredemine/static/js/2.383eea67.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.7ec3d484.chunk.js": "/Insuredemine/static/js/3.7ec3d484.chunk.js",
     "static/js/3.7ec3d484.chunk.js.map": "/Insuredemine/static/js/3.7ec3d484.chunk.js.map",
     "index.html": "/Insuredemine/index.html",
-    "static/css/main.f4336add.chunk.css.map": "/Insuredemine/static/css/main.f4336add.chunk.css.map",
-    "static/js/2.383eea67.chunk.js.LICENSE.txt": "/Insuredemine/static/js/2.383eea67.chunk.js.LICENSE.txt"
+    "static/css/main.d56bcc84.chunk.css.map": "/Insuredemine/static/css/main.d56bcc84.chunk.css.map",
+    "static/js/2.383eea67.chunk.js.LICENSE.txt": "/Insuredemine/static/js/2.383eea67.chunk.js.LICENSE.txt",
+    "static/media/Branson.7fdd510a.jpg": "/Insuredemine/static/media/Branson.7fdd510a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8075738b.js",
     "static/js/2.383eea67.chunk.js",
-    "static/css/main.f4336add.chunk.css",
-    "static/js/main.6b073b59.chunk.js"
+    "static/css/main.d56bcc84.chunk.css",
+    "static/js/main.8ff89799.chunk.js"
   ]
 }
