@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Insuredemine/static/css/main.d56bcc84.chunk.css",
-    "main.js": "/Insuredemine/static/js/main.8ff89799.chunk.js",
-    "main.js.map": "/Insuredemine/static/js/main.8ff89799.chunk.js.map",
-    "runtime-main.js": "/Insuredemine/static/js/runtime-main.8075738b.js",
-    "runtime-main.js.map": "/Insuredemine/static/js/runtime-main.8075738b.js.map",
-    "static/js/2.383eea67.chunk.js": "/Insuredemine/static/js/2.383eea67.chunk.js",
-    "static/js/2.383eea67.chunk.js.map": "/Insuredemine/static/js/2.383eea67.chunk.js.map",
-    "static/js/3.7ec3d484.chunk.js": "/Insuredemine/static/js/3.7ec3d484.chunk.js",
-    "static/js/3.7ec3d484.chunk.js.map": "/Insuredemine/static/js/3.7ec3d484.chunk.js.map",
-    "index.html": "/Insuredemine/index.html",
-    "static/css/main.d56bcc84.chunk.css.map": "/Insuredemine/static/css/main.d56bcc84.chunk.css.map",
-    "static/js/2.383eea67.chunk.js.LICENSE.txt": "/Insuredemine/static/js/2.383eea67.chunk.js.LICENSE.txt",
-    "static/media/Branson.7fdd510a.jpg": "/Insuredemine/static/media/Branson.7fdd510a.jpg"
+    "main.css": "/Insuredemine-ABC-media/static/css/main.d56bcc84.chunk.css",
+    "main.js": "/Insuredemine-ABC-media/static/js/main.8ff89799.chunk.js",
+    "main.js.map": "/Insuredemine-ABC-media/static/js/main.8ff89799.chunk.js.map",
+    "runtime-main.js": "/Insuredemine-ABC-media/static/js/runtime-main.fbd1ef34.js",
+    "runtime-main.js.map": "/Insuredemine-ABC-media/static/js/runtime-main.fbd1ef34.js.map",
+    "static/js/2.383eea67.chunk.js": "/Insuredemine-ABC-media/static/js/2.383eea67.chunk.js",
+    "static/js/2.383eea67.chunk.js.map": "/Insuredemine-ABC-media/static/js/2.383eea67.chunk.js.map",
+    "static/js/3.7ec3d484.chunk.js": "/Insuredemine-ABC-media/static/js/3.7ec3d484.chunk.js",
+    "static/js/3.7ec3d484.chunk.js.map": "/Insuredemine-ABC-media/static/js/3.7ec3d484.chunk.js.map",
+    "index.html": "/Insuredemine-ABC-media/index.html",
+    "static/css/main.d56bcc84.chunk.css.map": "/Insuredemine-ABC-media/static/css/main.d56bcc84.chunk.css.map",
+    "static/js/2.383eea67.chunk.js.LICENSE.txt": "/Insuredemine-ABC-media/static/js/2.383eea67.chunk.js.LICENSE.txt",
+    "static/media/Branson.7fdd510a.jpg": "/Insuredemine-ABC-media/static/media/Branson.7fdd510a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8075738b.js",
+    "static/js/runtime-main.fbd1ef34.js",
     "static/js/2.383eea67.chunk.js",
     "static/css/main.d56bcc84.chunk.css",
     "static/js/main.8ff89799.chunk.js"
